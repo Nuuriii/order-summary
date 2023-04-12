@@ -17,8 +17,8 @@ Users should be able to:
 
 ### Links
 
--  Solution URL: [Add solution URL here](https://your-solution-url.com)
--  Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-  Solution URL: [https://github.com/Nurrohmann/order-summary](https://github.com/Nurrohmann/order-summary)
+-  Live Site URL: [https://order-summary-iota-six.vercel.app/](https://order-summary-iota-six.vercel.app/)
 
 ### Built with
 
